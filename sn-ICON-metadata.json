@@ -1,0 +1,28 @@
+{
+  "representative": {
+    "logo": {
+      "logo_128": "https://sentinelnode.xyz/assets/icons/logo-circle-128.png",
+      "logo_64": "https://sentinelnode.xyz/assets/icons/logo-circle-64.png"
+    },
+    "media": {
+      "steemit": "",
+      "twitter": "https://twitter.com/sentinelNodeXyz",
+      "youtube": "",
+      "facebook": "",
+      "github": "https://github.com/sentinelNode",
+      "reddit": "",
+      "keybase": "",
+      "telegram": "",
+      "wechat": "",
+      "medium": ""
+    }
+  },
+  "server": {
+    "location": {
+      "country": "TV",
+      "city": "Tuvalu"
+    },
+    "server_type": "cloud",
+    "api_endpoint": "54.149.54.249:9000"
+  }
+}
