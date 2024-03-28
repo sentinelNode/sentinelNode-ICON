@@ -2,7 +2,8 @@
   "representative": {
     "logo": {
       "logo_128": "https://sentinelnode.xyz/assets/icons/logo-circle-128.png",
-      "logo_64": "https://sentinelnode.xyz/assets/icons/logo-circle-64.png"
+      "logo_64": "https://sentinelnode.xyz/assets/icons/logo-circle-64.png",
+      "logo_svg": "https://sentinelnode.xyz/assets/icons/logo-circle.svg"
     },
     "media": {
       "steemit": "",
