@@ -20,10 +20,10 @@
   },
   "server": {
     "location": {
-      "country": "TV",
-      "city": "Tuvalu"
+      "country": "FI",
+      "city": "Helsinki"
     },
     "server_type": "cloud",
-    "api_endpoint": "54.149.54.249:9000"
+    "api_endpoint": "65.108.250.37:9000"
   }
 }
